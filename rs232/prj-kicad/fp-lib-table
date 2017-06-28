@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name pmod-rs232)(type KiCad)(uri "$(KIPRJMOD)/pmod-rs232.pretty")(options "")(descr ""))
+  (lib (name cowstick-logos)(type KiCad)(uri /home/gwen/Agilack/Projects/cowstick/usbkey-ios/hardware/prj-kicad/cowstick-logos.pretty)(options "")(descr ""))
+)
