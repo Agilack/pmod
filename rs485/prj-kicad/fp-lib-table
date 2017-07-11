@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name pmod-rs485)(type KiCad)(uri "$(KIPRJMOD)/pmod-rs485.pretty")(options "")(descr ""))
+)
