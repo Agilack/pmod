@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name pmod-midi-in)(type KiCad)(uri "$(KIPRJMOD)/pmod-midi-in.pretty")(options "")(descr ""))
+)

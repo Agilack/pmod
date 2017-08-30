@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CONN_1
+K CONN
+$ENDCMP
+#
+$CMP SFH6318
+D Hi speed Optocoupler, Low input current, High gain
+K NPN Darlington Optocoupler
+$ENDCMP
+#
+#End Doc Library
