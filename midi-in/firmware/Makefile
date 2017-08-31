@@ -16,7 +16,7 @@
 CROSS=arm-none-eabi-
 TARGET=pmod-midi-fw
 
-SRC  = main.c hardware.c
+SRC  = main.c hardware.c uart.c
 ASRC = startup.s
 
 CC = $(CROSS)gcc
