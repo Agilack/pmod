@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CONN_1
+K CONN
+$ENDCMP
+#
+$CMP R
+K R
+$ENDCMP
+#
+#End Doc Library
