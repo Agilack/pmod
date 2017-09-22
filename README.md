@@ -10,17 +10,19 @@ the other side is a DB9 male connector. The module contains a level shifter
 (basically a MAX3232) to allow interfacing RS232 signal levels on a board
 with TTL levels.
 
-![Picture of PMOD RS232](https://raw.githubusercontent.com/Agilack/pmod-communication/master/rs232/doc/top-mini.jpg)
+![Picture of PMOD RS232](https://raw.githubusercontent.com/Agilack/pmod/master/rs232/doc/top-mini.jpg)
 
 ## RS485
 
-![Picture of PMOD RS485](https://raw.githubusercontent.com/Agilack/pmod-communication/master/rs485/doc/top-mini.jpg)
+![Picture of PMOD RS485](https://raw.githubusercontent.com/Agilack/pmod/master/rs485/doc/top-mini.jpg)
 
 ## Midi (IN)
 
-UNDER DEVELOPMENT. This module can be used to connect a MIDI device to a
-board with PMOD interface. The MIDI port is an input, so only instruments
-that send datas can be connected (tested with a keyboard)
+This module can be used to connect a MIDI device to a board with PMOD interface.
+The MIDI port is an input, so only instruments that send datas can be connected
+(tested with a keyboard)
+
+![Picture of PMOD MIDI](https://raw.githubusercontent.com/Agilack/pmod/master/midi-in/doc/top-mini.jpg)
 
 ## USB Serial
 
