@@ -22,7 +22,7 @@ This module can be used to connect a MIDI device to a board with PMOD interface.
 The MIDI port is an input, so only instruments that send datas can be connected
 (tested with a keyboard)
 
-![Picture of PMOD MIDI](https://raw.githubusercontent.com/Agilack/pmod/master/midi-in/doc/top-mini.jpg)
+![Picture of PMOD MIDI](https://raw.githubusercontent.com/Agilack/pmod/master/midi-in/doc/top-components-mini.jpg)
 
 ## USB Serial
 
