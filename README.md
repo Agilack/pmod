@@ -26,7 +26,10 @@ The MIDI port is an input, so only instruments that send datas can be connected
 
 ## USB Serial
 
-UNDER DEVELOPMENT. This module contains an usb-serial interface.
+This module is an usb-serial adapter (PMOD peripheral). Based on a Silicon Labs
+chip, no specific driver is required to use it on most OS.
+
+![Picture of PMOD USB-Serial](https://raw.githubusercontent.com/Agilack/pmod/master/usb-serial/doc/top-mini.jpg)
 
 # License
 
