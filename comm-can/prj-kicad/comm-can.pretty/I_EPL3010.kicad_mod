@@ -1,0 +1,10 @@
+(module I_EPL3010 (layer F.Cu) (tedit 59C99880)
+  (fp_text reference REF** (at 0 2.1209) (layer F.SilkS)
+    (effects (font (size 0.6096 0.6096) (thickness 0.1016)))
+  )
+  (fp_text value I_EPL3010 (at 0 0 90) (layer F.Fab) hide
+    (effects (font (size 0.2 0.2) (thickness 0.05)))
+  )
+  (pad 1 smd rect (at -1.04 0) (size 1.12 3.2) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 1.04 0) (size 1.12 3.2) (layers F.Cu F.Paste F.Mask))
+)
