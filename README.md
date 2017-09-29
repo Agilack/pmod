@@ -1,7 +1,11 @@
-# PMOD communication modules
+# PMOD modules
 
 This repository contains multiple projects of PMOD modules. All of them are
 used for communications.
+
+## CAN
+
+comm-can is an under-development module for CAN bus interface.
 
 ## RS232
 
