@@ -1,0 +1,62 @@
+EESchema Schematic File Version 2
+LIBS:pmod-logic-lp384
+LIBS:pmod-logic-lp384-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "PMOD LP384 Programmable Logic"
+Date "2017-10-02"
+Rev "1"
+Comp "Agilack"
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L ICE40LP384-SG32 U1
+U 1 1 5A6EEAE6
+P 5050 2600
+F 0 "U1" H 5050 3250 60  0000 C CNN
+F 1 "ICE40LP384-SG32" H 5050 1850 60  0000 C CNN
+F 2 "" H 5050 2600 60  0000 C CNN
+F 3 "" H 5050 2600 60  0000 C CNN
+	1    5050 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L PMOD P1
+U 1 1 5A6EF0B9
+P 2150 2650
+F 0 "P1" H 2350 2950 60  0000 C CNN
+F 1 "PMOD" H 2400 2350 60  0000 C CNN
+F 2 "" H 2150 2650 60  0000 C CNN
+F 3 "" H 2150 2650 60  0000 C CNN
+	1    2150 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L ICE40LP384-SG32 U1
+U 2 1 5A6EF3E2
+P 4750 4950
+F 0 "U1" H 5250 5250 60  0000 C CNN
+F 1 "ICE40LP384-SG32" H 5350 4600 60  0000 C CNN
+F 2 "" H 4750 4950 60  0000 C CNN
+F 3 "" H 4750 4950 60  0000 C CNN
+	2    4750 4950
+	1    0    0    -1  
+$EndComp
+$Comp
+L PMOD P?
+U 1 1 5A6EF493
+P 8250 2650
+F 0 "P?" H 8450 2950 60  0000 C CNN
+F 1 "PMOD" H 8500 2350 60  0000 C CNN
+F 2 "" H 8250 2650 60  0000 C CNN
+F 3 "" H 8250 2650 60  0000 C CNN
+	1    8250 2650
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
