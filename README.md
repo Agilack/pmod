@@ -5,7 +5,9 @@ used for communications.
 
 ## CAN
 
-comm-can is an under-development module for CAN bus interface.
+This module is a peripheral interface to connect a CAN bus.
+
+![Picture of PMOD CAN](https://raw.githubusercontent.com/Agilack/pmod/master/comm-can/doc/img-top_components-mini.jpg)
 
 ## RS232
 
