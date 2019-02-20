@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name pmod-wifi)(type KiCad)(uri "$(KIPRJMOD)/pmod-wifi.pretty")(options "")(descr ""))
+)
