@@ -37,6 +37,13 @@ chip, no specific driver is required to use it on most OS.
 
 ![Picture of PMOD USB-Serial](https://raw.githubusercontent.com/Agilack/pmod/master/usb-serial/doc/top-mini.jpg)
 
+## Wifi
+
+This module is a Wifi interface (PMOD peripheral). Based on the very popular
+espressif chip (ESP8285 or ESP8266)
+
+![Picture of PMOD Wifi](https://raw.githubusercontent.com/Agilack/pmod/master/rf-wifi/doc/pcb-full.jpg)
+
 # License
 
 All electronics parts are released under Creative Commons Attribution Share
